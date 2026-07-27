@@ -1,4 +1,4 @@
-from ipyprint import *  # noqa
+from ipyprint import *
 
 
 def test_all():
